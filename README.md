@@ -8,7 +8,7 @@ Welcome to the Oasis Infobyte Data Science Internship Project repository! This p
 - **Objective**: To build a machine learning model that classifies iris flowers into three species (setosa, versicolor, or virginica).
 - **Tools Used**: Jupyter Notebook, Python, Scikit-Learn.
 - **Deployment**: Streamlit was used to deploy the project, making it accessible through a web application.
-- **Command to run**: streamlit run app.py
+- **Command to run**: "streamlit run app.py"
 
 ### Task 2: Unemployment Analysis Using Python
 - **Objective**: Analyze unemployment data using Python to gain insights into unemployment trends and patterns.
