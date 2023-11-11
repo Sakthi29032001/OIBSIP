@@ -41,7 +41,7 @@ This project is available under the [LICENSE_NAME] license. Please see the [LICE
 
 ## Contact
 
-If you have any questions or would like to get in touch, please contact me at [sakthijanani786@gmail.com].
+If you have any questions or would like to get in touch, please contact me at sakthijanani786@gmail.com
 
 ## Acknowledgments
 
